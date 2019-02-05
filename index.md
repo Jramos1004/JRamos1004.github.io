@@ -26,7 +26,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of cat](https://news.nationalgeographic.com/content/dam/news/2018/05/17/y…ining-NationalGeographic_1484324.ngsversion.1526587209178.adapt.1900.1.jpg) 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
